@@ -1,0 +1,10 @@
+---
+dependencies: []
+galaxy_info:
+  description: Ansible role for install docker-ce
+  author: ""
+  license: unlicense
+  min_ansible_version: 2.6
+  platforms:
+    - name: Ubuntu / Debian
+      version: [any]
